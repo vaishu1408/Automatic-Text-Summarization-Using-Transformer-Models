@@ -1,0 +1,4 @@
+# Automatic Text Summarization Using Transformer Models
+
+This project focuses on developing an automatic text summarization system that condenses lengthy articles into concise, coherent summaries while retaining the core message. It includes a dataset of 9,000 articles with corresponding headlines, experiments with multiple approaches including a custom Transformer, BART, and fine-tuned T5 models, and highlights improvements in summary quality, coherence, ROUGE scores, and model robustness. The repository contains the project report detailing the methodology, challenges, and key insights, as well as code for training, fine-tuning, and generating summaries. Data preprocessing, tokenization, hyperparameter optimization, and evaluation techniques are also included to provide a complete workflow for building a high-quality summarization system.
+
